@@ -1,7 +1,7 @@
 
 
 # 🚗 Car Management System
-![Main Page](images/main_page.png)
+![Main Page](images/mainPage.png)
 
 ![Java](https://img.shields.io/badge/language-Java-blue) ![JavaFX](https://img.shields.io/badge/UI-JavaFX-orange) ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
